@@ -1,0 +1,2 @@
+
+let isLoading:boolean=false
